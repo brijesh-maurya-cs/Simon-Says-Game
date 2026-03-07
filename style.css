@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+}
+
+.btn {
+  height: 100px;
+  width: 100px;
+  border-radius: 10%;
+  border: 5px solid black;
+  margin: 1rem;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.pink {
+  background-color: #be48a8;
+}
+.blue {
+  background-color: #0db6ea;
+}
+.green {
+  background-color: #17d737;
+}
+.purple {
+  background-color: #5a2bf5;
+}
+
+.gameflash {
+  background-color: white;
+}
+
+.userflash {
+  background-color: green;
+}
+
+.highScore{
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #333;
+}
+
